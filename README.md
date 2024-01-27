@@ -11,6 +11,5 @@
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/ubuntu-E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Ansible](https://img.shields.io/badge/ansible-ee0000.svg?style=for-the-badge&logo=ansible&logoColor=black)
 ![GithubActions](https://img.shields.io/badge/github%20actions-2088FF.svg?style=for-the-badge&logo=githubactions&logoColor=black)
 ![RenovateBot](https://img.shields.io/badge/renovate%20bot-1A1F6C.svg?style=for-the-badge&logo=renovatebot&logoColor=white)
