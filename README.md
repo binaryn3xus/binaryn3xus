@@ -13,3 +13,5 @@
 ![Ubuntu](https://img.shields.io/badge/ubuntu-E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![GithubActions](https://img.shields.io/badge/github%20actions-2088FF.svg?style=for-the-badge&logo=githubactions&logoColor=black)
 ![RenovateBot](https://img.shields.io/badge/renovate%20bot-1A1F6C.svg?style=for-the-badge&logo=renovatebot&logoColor=white)
+
+![binaryn3xus's GitHub stats](https://github-readme-stats.vercel.app/api?username=binaryn3xus&show_icons=true&theme=transparent)
